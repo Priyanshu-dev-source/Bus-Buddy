@@ -61,12 +61,12 @@ const LoginPage = () => {
 					<label
 						htmlFor="email"
 						className="text-white text-[18px] font-semibold">
-						Email
+						Username
 					</label>
 					<Input
 						height="50px"
 						width="92%"
-						placeholder="Enter your email"
+						placeholder="Enter your Username"
 						bgcol="transparent"
 						color="white"
 						value={inputEmail}

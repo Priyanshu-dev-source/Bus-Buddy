@@ -20,7 +20,7 @@ const Button = ({
 	const bgColor = highlight ? "rgb(229 231 235)" : buttonColor
 
 	// console.log(types.type);
-	console.log(height)
+	// console.log(height)
 	return (
 		<button
 			type={bType}
